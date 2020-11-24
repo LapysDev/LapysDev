@@ -31,4 +31,8 @@ Human::Creator<🌘> const Lapys = {
 
 [![Lapys' Github](https://github-readme-stats.vercel.app/api?count_private=true&hide=contribs,issues,prs&include_all_commits&locale=en&show_icons=true&theme=dark&username=LapysDev)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Lapys' StackOverflow](https://github-readme-stackoverflow.vercel.app/?layout=compact&theme=dark&userID=7364573)](https://stackoverflow.com/users/7364573/lapys)
+[![Lapys' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?theme=dark&username=LapysDev)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
+
+[![Lapys' StackOverflow](https://github-readme-stackoverflow.vercel.app/?theme=dark&userID=7364573)](https://stackoverflow.com/users/7364573/lapys)
