@@ -29,6 +29,6 @@ Human::Creator<🌘> const Lapys = {
 <i> Fun fact: I&rsquo;m also known as a blue rock 👋🏾 </i>
 <br/> <br/>
 
-[![Lapys' Github](https://github-readme-stats.vercel.app/api?count_private=true&disable_animations=false&hide=contribs,issues,prs&include_all_commits =true&locale=en&show_icons=true&theme=dark&username=LapysDev)](https://github.com/anuraghazra/github-readme-stats)
+[![Lapys' Github](https://github-readme-stats.vercel.app/api?count_private=true&hide=contribs,issues,prs&include_all_commits&locale=en&show_icons=true&theme=dark&username=LapysDev)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Lapys' StackOverflow](https://github-readme-stackoverflow.vercel.app/?layout=compact&theme=dark&userID=7364573)](https://stackoverflow.com/users/7364573/lapys)
