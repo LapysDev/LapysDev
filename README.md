@@ -40,9 +40,9 @@ You can connect with me on these other platforms outside of GitHub. <br/>
 Feel free to see what interests you 😃 <br/>
 
 <br/>
-<a href="https://stackoverflow.com/users/7364573/lapys" title="StackOverflow"> <img align="left" alt="StackOverflow" width="22px" src="contacts/stackoverflow.ico"/> </a>
-<a href="https://twitter.com/Lapys_Arts" title="Twitter"> <img align="left" alt="Twitter" width="22px" src="contacts/twitter.ico"/> </a>
-<a href="https://www.youtube.com/channel/UCaDSL0cTCxuA3EBd94IBHVw" title="YouTube"> <img align="left" alt="YouTube" width="22px" src="contacts/youtube.ico"/> </a>
+<a href="https://stackoverflow.com/users/7364573/lapys" title="StackOverflow"> <img align="left" alt="StackOverflow" src="contacts/stackoverflow.ico" style="image-rendering: crisp-edges" width="22px"/> </a>
+<a href="https://twitter.com/Lapys_Arts" title="Twitter"> <img align="left" alt="Twitter" src="contacts/twitter.ico" style="image-rendering: crisp-edges" width="22px"/> </a>
+<a href="https://www.youtube.com/channel/UCaDSL0cTCxuA3EBd94IBHVw" title="YouTube"> <img align="left" alt="YouTube" src="contacts/youtube.ico" style="image-rendering: crisp-edges" width="22px"/> </a>
 <br/>
 
 <hr/>
@@ -52,16 +52,16 @@ If you&rsquo;re curious with my setup and what I use to program 🔨 <br/>
 
 <br/>
 
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"> <img align="left" alt="C" width="22px" src="languages/c.ico"/> </a>
-<a href="https://en.wikipedia.org/wiki/C%2B%2B" title="C++"> <img align="left" alt="C++" width="22px" src="languages/cpp.ico"/> </a>
-<a href="https://en.wikipedia.org/wiki/CSS" title="CSS"> <img align="left" alt="CSS" width="22px" src="languages/css.ico"/> </a>
-<a href="https://en.wikipedia.org/wiki/HTML" title="HTML"> <img align="left" alt="HTML" width="22px" src="languages/html.ico"/> </a>
-<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"> <img align="left" alt="JS" width="22px" src="languages/js.ico"/> </a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"> <img align="left" alt="C" src="languages/c.ico" style="image-rendering: crisp-edges" width="22px"/> </a>
+<a href="https://en.wikipedia.org/wiki/C%2B%2B" title="C++"> <img align="left" alt="C++" src="languages/cpp.ico" style="image-rendering: crisp-edges" width="22px"/> </a>
+<a href="https://en.wikipedia.org/wiki/CSS" title="CSS"> <img align="left" alt="CSS" src="languages/css.ico" style="image-rendering: crisp-edges" width="22px"/> </a>
+<a href="https://en.wikipedia.org/wiki/HTML" title="HTML"> <img align="left" alt="HTML" src="languages/html.ico" style="image-rendering: crisp-edges" width="22px"/> </a>
+<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"> <img align="left" alt="JS" src="languages/js.ico" style="image-rendering: crisp-edges" width="22px"/> </a>
 <br/>
 
-<a href="https://git-scm.com/" title="Git"> <img align="left" alt="Git" width="22px" src="tools/git.ico"/> </a>
-<a href="https://www.msys2.org/" title="msys2"> <img align="left" alt="msys2" width="22px" src="tools/msys2.ico"/> </a>
-<a href="https://www.sublimetext.com/" title="Sublime Text"> <img align="left" alt="Sublime Text" width="22px" src="tools/sublime-text.ico"/> </a>
+<a href="https://git-scm.com/" title="Git"> <img align="left" alt="Git" src="languages/js.ico" style="image-rendering: crisp-edges" width="22px"/> </a>
+<a href="https://www.msys2.org/" title="msys2"> <img align="left" alt="msys2" src="tools/msys2.ico" style="image-rendering: crisp-edges" width="22px"/> </a>
+<a href="https://www.sublimetext.com/" title="Sublime Text"> <img align="left" alt="Sublime Text" src="tools/sublime-text.ico" style="image-rendering: crisp-edges" width="22px"/> </a>
 <br/>
 
 <hr/>
