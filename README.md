@@ -41,5 +41,10 @@ I would 💙 to learn about other stuff too, like sound design 🎶 & video-edit
   <br clear="all"/>
 </details>
 
-![](https://github-readme-stats.vercel.app/api?count_private=true&hide=contribs,issues,prs&include_all_commits&custom_title=Statistics&locale=en&show_icons=true&theme=dark&username=LapysDev)
-![](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&theme=dark&username=LapysDev)
+<details>
+  <summary> 🌘 Languages (used by me) </summary>
+
+  <br/>
+  <img align="left" alt="Lapys' programming languages used on GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&theme=dark&username=LapysDev"/>
+  <br clear="all"/>
+</details>
