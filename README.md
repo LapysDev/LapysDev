@@ -24,7 +24,9 @@ constexpr Creator<👨🏾‍💻> stats = {
   .interests = ["Animation 🧍‍", "Game Dev. 🎮", "Music 🎸", …],
 };
 ```
-<h2> What I&rsquo;m doing? </h2>
+<h2> Who I am? </h2>
+Just a developer that loves to design & code
+<br/>
 Currently working on code libraries for C++ and JavaScript 📚 <br/>
 — along with other side projects & experimental concepts ⚙️ 🧪 <br/>
 <br/>
@@ -32,6 +34,12 @@ I would 💙 to learn about other stuff too, like sound design 🎶 & video-edit
 <hr/>
 <i> Fun fact: <a href="https://en.wikipedia.org/wiki/Lapis_lazuli" target="_blank" rel="noopener noreferrer">Lapis lazuli</a> is a blue gemstone 💍 </i>
 <br/> <br/>
+
+<h2> Where I am </h2>
+<a href="https://stackoverflow.com/users/7364573/lapys"> <img align="left" alt="Lapys | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg"/> </a>
+<a href="https://twitter.com/Lapys_Arts"> <img align="left" alt="Lapys | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/> </a>
+<a href="https://www.youtube.com/channel/UCaDSL0cTCxuA3EBd94IBHVw"> <img align="left" alt="Lapys | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg"/> </a>
+<hr/>
 
 <details>
   <summary> 🌘 GitHub Stats. </summary>
@@ -42,7 +50,7 @@ I would 💙 to learn about other stuff too, like sound design 🎶 & video-edit
 </details>
 
 <details>
-  <summary> 🌘 Languages (used by me) </summary>
+  <summary> 🌘 Languages I Use </summary>
 
   <br/>
   <img align="left" alt="Lapys' programming languages used on GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&theme=dark&username=LapysDev"/>
