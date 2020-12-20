@@ -52,16 +52,16 @@ If you&rsquo;re curious with my setup and what I use to program 🔨 <br/>
 
 <br/>
 
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"> <img align="left" alt="C" width="22px" src="languages/"/> </a>
-<a href="https://en.wikipedia.org/wiki/C%2B%2B" title="C++"> <img align="left" alt="C++" width="22px" src="languages/"/> </a>
-<a href="https://en.wikipedia.org/wiki/CSS" title="CSS"> <img align="left" alt="CSS" width="22px" src="languages/"/> </a>
-<a href="https://en.wikipedia.org/wiki/HTML" title="HTML"> <img align="left" alt="HTML" width="22px" src="languages/"/> </a>
-<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"> <img align="left" alt="JS" width="22px" src="languages/"/> </a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"> <img align="left" alt="C" width="22px" src="languages/c.ico"/> </a>
+<a href="https://en.wikipedia.org/wiki/C%2B%2B" title="C++"> <img align="left" alt="C++" width="22px" src="languages/cpp.ico"/> </a>
+<a href="https://en.wikipedia.org/wiki/CSS" title="CSS"> <img align="left" alt="CSS" width="22px" src="languages/css.ico"/> </a>
+<a href="https://en.wikipedia.org/wiki/HTML" title="HTML"> <img align="left" alt="HTML" width="22px" src="languages/html.ico"/> </a>
+<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"> <img align="left" alt="JS" width="22px" src="languages/js.ico"/> </a>
 <br/>
 
-<a href="https://git-scm.com/" title="Git"> <img align="left" alt="Git" width="22px" src="tools/"/> </a>
-<a href="https://www.msys2.org/" title="msys2"> <img align="left" alt="msys2" width="22px" src="tools/"/> </a>
-<a href="https://www.sublimetext.com/" title="Sublime Text"> <img align="left" alt="Sublime Text" width="22px" src="tools/"/> </a>
+<a href="https://git-scm.com/" title="Git"> <img align="left" alt="Git" width="22px" src="tools/git.ico"/> </a>
+<a href="https://www.msys2.org/" title="msys2"> <img align="left" alt="msys2" width="22px" src="tools/msys2.ico"/> </a>
+<a href="https://www.sublimetext.com/" title="Sublime Text"> <img align="left" alt="Sublime Text" width="22px" src="tools/sublime-text.ico"/> </a>
 <br/>
 
 <hr/>
