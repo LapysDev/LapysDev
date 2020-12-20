@@ -39,11 +39,12 @@ I would 💙 to learn about other stuff too, like sound design 🎶 & video-edit
 You can connect with me on these other platforms outside of GitHub. <br/>
 Feel free to see what interests you 😃 <br/>
 
+<br/>
 <a href="https://stackoverflow.com/users/7364573/lapys"> <img align="left" alt="Lapys | StackOverflow" width="22px" src="contacts/stackoverflow.ico"/> </a>
 <a href="https://twitter.com/Lapys_Arts"> <img align="left" alt="Lapys | Twitter" width="22px" src="contacts/twitter.ico"/> </a>
 <a href="https://www.youtube.com/channel/UCaDSL0cTCxuA3EBd94IBHVw"> <img align="left" alt="Lapys | YouTube" width="22px" src="contacts/youtube.ico"/> </a>
+<br/>
 
-<br/> <br/>
 <hr/>
 
 <details>
