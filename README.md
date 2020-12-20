@@ -12,8 +12,11 @@
   width: 100% !important
 "> <center> Hello, Universe! 🌙 </center> </h1>
 
+![Follow on GitHub](https://img.shields.io/github/followers/LapysDev?color=181717&label=Follow%20on%20GitHub&logo=Github&style=for-the-badge)
+[![Follow on Twitter](https://img.shields.io/twitter/follow/LapysDev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FLapysDev&screen_name=Lapys_Arts)
+
 ```cpp
-Human::Creator<🌘> const Lapys = {
+constexpr Creator<🌘> stats = {
   .name = "Oluwafunmito Oshodi",
   .age = 20u,
   .description = "Asipiring" ["Animator", "Designer", "Developer"],
