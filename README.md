@@ -16,7 +16,6 @@
 ![Follow on GitHub](https://img.shields.io/github/followers/LapysDev?color=181717&label=Follow%20on%20GitHub&logo=Github&style=for-the-badge)
 
 ```cpp
-/* 🌘 */
 constexpr Creator<👨🏾‍💻> stats = {
   .name = "Oluwafunmito Oshodi",
   .age = 20u,
@@ -34,4 +33,13 @@ I would 💙 to learn about other stuff too, like sound design 🎶 & video-edit
 <i> Fun fact: <a href="https://en.wikipedia.org/wiki/Lapis_lazuli" target="_blank" rel="noopener noreferrer">Lapis lazuli</a> is a blue gemstone 💍 </i>
 <br/> <br/>
 
-![](https://github-readme-stats.vercel.app/api?count_private=true&hide=contribs,issues,prs&include_all_commits&custom_title=Statistics&locale=en&show_icons=true&theme=dark&username=LapysDev) ![](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&theme=dark&username=LapysDev)
+<details>
+  <summary> 🌘 GitHub Stats. </summary>
+
+  <br/>
+  ![](https://github-readme-stats.vercel.app/api?count_private=true&hide=contribs,issues,prs&include_all_commits&custom_title=Statistics&locale=en&show_icons=true&theme=dark&username=LapysDev)
+  <br clear="all" />
+</details>
+
+![](https://github-readme-stats.vercel.app/api?count_private=true&hide=contribs,issues,prs&include_all_commits&custom_title=Statistics&locale=en&show_icons=true&theme=dark&username=LapysDev)
+![](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&theme=dark&username=LapysDev)
