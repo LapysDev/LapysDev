@@ -10,10 +10,10 @@
   text-align: center !important;
   vertical-align: middle !important;
   width: 100% !important
-"> <center> Hello, Universe! 🌙 </center> </h1>
+"> <center> Hello there, I am Lapys and I program stuff 🌙 </center> </h1>
 
 ![Follow on GitHub](https://img.shields.io/github/followers/LapysDev?color=181717&label=Follow%20on%20GitHub&logo=Github&style=for-the-badge)
-[![Follow on Twitter](https://img.shields.io/twitter/follow/LapysDev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FLapysDev&screen_name=Lapys_Arts)
+[![Follow on Twitter](https://img.shields.io/twitter/follow/Lapys_Arts?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FLapysDev&screen_name=Lapys_Arts)
 
 ```cpp
 constexpr Creator<🌘> stats = {
