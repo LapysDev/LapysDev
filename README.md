@@ -36,9 +36,14 @@ I would 💙 to learn about other stuff too, like sound design 🎶 & video-edit
 <br/> <br/>
 
 <h2> Where I am </h2>
-<a href="https://stackoverflow.com/users/7364573/lapys"> <img align="left" alt="Lapys | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg"/> </a>
-<a href="https://twitter.com/Lapys_Arts"> <img align="left" alt="Lapys | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/> </a>
-<a href="https://www.youtube.com/channel/UCaDSL0cTCxuA3EBd94IBHVw"> <img align="left" alt="Lapys | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg"/> </a>
+You can connect with me on these other platforms outside of GitHub. <br/>
+Feel free to see what interests you 😃 <br/>
+
+<a href="https://stackoverflow.com/users/7364573/lapys"> <img align="left" alt="Lapys | StackOverflow" width="22px" src="contacts/stackoverflow.ico"/> </a>
+<a href="https://twitter.com/Lapys_Arts"> <img align="left" alt="Lapys | Twitter" width="22px" src="contacts/twitter.ico"/> </a>
+<a href="https://www.youtube.com/channel/UCaDSL0cTCxuA3EBd94IBHVw"> <img align="left" alt="Lapys | YouTube" width="22px" src="contacts/youtube.ico"/> </a>
+
+<br/>
 <hr/>
 
 <details>
