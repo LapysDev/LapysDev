@@ -10,7 +10,7 @@
   text-align: center !important;
   vertical-align: middle !important;
   width: 100% !important
-"> <center> Hi, I&rsquo;m Funto (Lapys) 🌙 </center> </h1>
+"> <center> Hi, I&rsquo;m Lapys 🌙 </center> </h1>
 
 [![Follow on Twitter](https://img.shields.io/twitter/follow/Lapys_Arts?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FLapysDev&screen_name=Lapys_Arts)
 ![Follow on GitHub](https://img.shields.io/github/followers/LapysDev?color=181717&label=Follow%20on%20GitHub&logo=Github&style=for-the-badge)
@@ -20,15 +20,16 @@
 constexpr Creator<👨🏾‍💻> stats = {
   .name = "Oluwafunmito Oshodi",
   .age = 20u,
-  .description = "Asipiring" ["Animator", "Designer", "Developer"],
   .location = "Lagos, Nigeria 🇳🇬"
+  .skills = ["2D Illustration", "Front-End Web Dev.", "Graphics Design"],
+  .interests = ["Animation", "Application Development", "Game Dev.", "Music 🎸", ...],
 };
 ```
 <h2> What I&rsquo;m doing? </h2>
 Currently working on code libraries for C++ and JavaScript 📚 <br/>
-— along with other side projects & concepts ⚙️ <br/>
+— along with other side projects & experimental concepts ⚙️ 🧪 <br/>
 <br/>
-🌱 Would love to learn about other stuff too, like music compositing 🎶 & video-editing 🎬 <br/>
+I would 💙 to learn about other stuff too, like sound design 🎶 & video-editing 🎬 <br/>
 <hr/>
 <i> Fun fact: Lapys is a blue gemstone 👋🏾 </i>
 <br/> <br/>
