@@ -33,10 +33,12 @@ I would 💙 to learn about other stuff too, like sound design 🎶 & video-edit
 <i> Fun fact: <a href="https://en.wikipedia.org/wiki/Lapis_lazuli" target="_blank" rel="noopener noreferrer">Lapis lazuli</a> is a blue gemstone 💍 </i>
 <br/> <br/>
 
-/* Github Statistics */
 <details>
-<summary> 🌘 GitHub Stats. </summary>
-![](https://github-readme-stats.vercel.app/api?count_private=true&hide=contribs,issues,prs&include_all_commits&custom_title=Statistics&locale=en&show_icons=true&theme=dark&username=LapysDev)
+  <summary> 🌘 GitHub Stats. </summary>
+
+  <br/>
+  <img align="left" alt="Lapys' GitHub ranking/ statistics" src="https://github-readme-stats.vercel.app/api?count_private=true&hide=contribs,issues,prs&include_all_commits&custom_title=Statistics&locale=en&show_icons=true&theme=dark&username=LapysDev"/>
+  <br clear="all"/>
 </details>
 
 ![](https://github-readme-stats.vercel.app/api?count_private=true&hide=contribs,issues,prs&include_all_commits&custom_title=Statistics&locale=en&show_icons=true&theme=dark&username=LapysDev)
