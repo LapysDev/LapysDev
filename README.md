@@ -43,7 +43,7 @@ Feel free to see what interests you 😃 <br/>
 <a href="https://twitter.com/Lapys_Arts"> <img align="left" alt="Lapys | Twitter" width="22px" src="contacts/twitter.ico"/> </a>
 <a href="https://www.youtube.com/channel/UCaDSL0cTCxuA3EBd94IBHVw"> <img align="left" alt="Lapys | YouTube" width="22px" src="contacts/youtube.ico"/> </a>
 
-<br/>
+<br/> <br/>
 <hr/>
 
 <details>
