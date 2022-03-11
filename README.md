@@ -17,12 +17,12 @@
 
 ```cpp
 constexpr Creator<🤵🏾> stats = {
-  .name      = "Oluwafunmito Oshodi",
-  .age       = 20u,
+  .name      = "Funto Oshodi",
+  .age       = 21u,
 
-  .location  = ["Basildon, United Kingdom 🇬🇧", "Lagos, Nigeria 🇳🇬"]
-  .skills    = ["2D Illustration 🎨", "Graphics Design 👨🏾‍🎨", "Web Dev. 🌐", …],
-  .interests = ["Animation 🚶🏾‍♂️", "Game Dev. 🎮", "Music 🎸", …],
+  .location  = ["Basildon, United Kingdom 🇬🇧", "Lagos, Nigeria 🇳🇬"],
+  .skills    = ["2D Illustration", "Graphics Design", "Web Dev.", …],
+  .interests = ["Animation", "Game Dev.", "Music", …]
 };
 ```
 <h2> Who I am </h2>
