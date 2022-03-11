@@ -12,8 +12,8 @@
   width: 100% !important
 "> <center> Hi, I&rsquo;m Lapys 👋🏾 </center> </h1>
 
-[![Follow on Twitter](https://img.shields.io/twitter/follow/Lapys_Arts?color=00AAFF&label=Twitter&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FLapysDev&screen_name=Lapys_Arts)
-![Follow on GitHub](https://img.shields.io/github/followers/LapysDev?color=999999&label=GitHub&logo=github&style=for-the-badge)
+![GitHub](https://img.shields.io/github/followers/LapysDev?color=999999&label=GitHub&logo=github&style=for-the-badge)
+![Twitter](https://img.shields.io/twitter/follow/Lapys_Arts?color=00AAFF&label=Twitter&logo=twitter&style=for-the-badge)
 
 ```cpp
 constexpr Creator<🤵🏾> stats = {
