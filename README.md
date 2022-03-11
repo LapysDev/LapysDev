@@ -12,8 +12,8 @@
   width: 100% !important
 "> <center> Hi, I&rsquo;m Lapys 👋🏾 </center> </h1>
 
-[![Follow on Twitter](https://img.shields.io/twitter/follow/Lapys_Arts?color=1DA1F2&label=Twitter&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FLapysDev&screen_name=Lapys_Arts)
-![Follow on GitHub](https://img.shields.io/github/followers/LapysDev?color=181717&label=GitHub&logo=github&style=for-the-badge)
+[![Follow on Twitter](https://img.shields.io/twitter/follow/Lapys_Arts?color=00AAFF&label=Twitter&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FLapysDev&screen_name=Lapys_Arts)
+![Follow on GitHub](https://img.shields.io/github/followers/LapysDev?color=999999&label=GitHub&logo=github&style=for-the-badge)
 
 ```cpp
 constexpr Creator<🤵🏾> stats = {
@@ -33,7 +33,7 @@ Currently working on code libraries for C++ and JavaScript 📚 <br/>
 <br/>
 I would 💙 to learn about other stuff too, like sound design & video-editing <br/>
 <hr/>
-💍 <i> Fun fact: <a href="https://en.wikipedia.org/wiki/Lapis_lazuli" target="_blank" rel="noopener noreferrer">Lapis lazuli</a> is a blue gemstone </i>
+<i> Fun fact: <a href="https://en.wikipedia.org/wiki/Lapis_lazuli" target="_blank" rel="noopener noreferrer">Lapis lazuli</a> is a blue gemstone </i>
 <br/> <br/>
 
 <h2> Where I am </h2>
