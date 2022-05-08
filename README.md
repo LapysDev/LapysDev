@@ -1,3 +1,5 @@
+<img align="center" alt="LapysDev" src="banner/Lapys OS.jpg" style="image-rendering: crisp-edges; image-rendering: optimizeQuality; image-rendering: smooth; image-rendering: high-quality"/>
+
 <h1 center style="
   align-content: center !important;
   align-items: center !important;
