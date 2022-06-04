@@ -20,7 +20,7 @@
 ```cpp
 constexpr Creator<🤵🏾> stats = {
   .name      = "Funto Oshodi",
-  .age       = 21u,
+  .age       = 21zu,
 
   .location  = ["Basildon, United Kingdom 🇬🇧", "Lagos, Nigeria 🇳🇬"],
   .skills    = ["2D Illustration", "Graphics Design", "Web Dev.", …],
