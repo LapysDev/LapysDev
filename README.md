@@ -1,4 +1,4 @@
-<img align="center" alt="LapysDev" src="banner/Lapys OS.jpg" style="image-rendering: crisp-edges; image-rendering: optimizeQuality; image-rendering: smooth; image-rendering: high-quality"/>
+<img align="center" alt="LapysDev" src="banner/Lapys OS.jpg" style="image-rendering: crisp-edges; image-rendering: optimizeQuality; image-rendering: smooth; image-rendering: high-quality; margin-left: 25%; margin-right: 25%; width: 50%"/>
 
 <h1 center style="
   align-content: center !important;
@@ -35,8 +35,13 @@ Currently working on code libraries for C++ and JavaScript 📚 <br/>
 <br/>
 I would 💙 to learn about other stuff too, like sound design & video-editing <br/>
 <hr/>
-<i> Fun fact: <a href="https://en.wikipedia.org/wiki/Lapis_lazuli" target="_blank" rel="noopener noreferrer">Lapis lazuli</a> is a blue gemstone </i>
-<br/> <br/>
+
+<h4> Fun facts </h4>
+<ul>  
+  <li> <a href="https://en.wikipedia.org/wiki/Lapis_lazuli" target="_blank" rel="noopener noreferrer">Lapis lazuli</a> is a blue gemstone </li>
+  <li> <a href="https://en.wikipedia.org/wiki/Philosopher's_stone" target="_blank" rel="noopener noreferrer">Lapis philosophorum</a> is an alchemical substance capable of turning things to gold </li>
+</ul>
+<br/>
 
 <h2> Where I am </h2>
 You can connect with me on these other platforms outside of GitHub <br/>
