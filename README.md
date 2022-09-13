@@ -38,8 +38,8 @@ I would 💙 to learn about other stuff too, like sound design & video-editing <
 
 <h4> Fun facts </h4>
 <ul>  
-  <li> <a href="https://en.wikipedia.org/wiki/Lapis_lazuli" target="_blank" rel="noopener noreferrer">Lapis lazuli</a> is a deep-blue precious gemstone </li>
-  <li> <a href="https://en.wikipedia.org/wiki/Philosopher's_stone" target="_blank" rel="noopener noreferrer">Lapis philosophorum</a> is an alchemical substance capable of turning things to gold </li>
+  <li> <a href="https://en.wikipedia.org/wiki/Lapis_lazuli" target="_blank" rel="noopener noreferrer">Lapis lazuli</a> is a deep-blue metamorphic precious stone </li>
+  <li> <a href="https://en.wikipedia.org/wiki/Philosopher's_stone" target="_blank" rel="noopener noreferrer">Lapis philosophorum</a> is the alchemical prima materia capable of transmuting lesser materials such as lead to higher substances like silver or gold </li>
 </ul>
 <br/>
 
