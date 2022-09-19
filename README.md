@@ -20,7 +20,7 @@
 ```cpp
 constinit Creator<🤵🏾> stats = {
   .name      = "Funto Oshodi",
-  .age       = 21zu,
+  .age       = 22zu,
 
   .location  = ["Basildon, United Kingdom 🇬🇧", "Lagos, Nigeria 🇳🇬"],
   .skills    = ["2D Illustration", "Graphics Design", "Web Dev.", …],
