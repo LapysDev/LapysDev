@@ -18,7 +18,7 @@
 [![Twitter](https://img.shields.io/twitter/follow/Lapys_Arts?color=00AAFF&label=Twitter&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FLapysDev&screen_name=Lapys_Arts)
 
 ```cpp
-constinit Creator<🤵🏾> stats = {
+constinit ::Creator<🤵🏾> stats {
   .name      = "Funto Oshodi",
   .age       = 22zu,
 
@@ -33,18 +33,19 @@ Just a developer that loves to design & code
 Currently working on code libraries for C++ and JavaScript 📚 <br/>
 — along with other side projects & experimental concepts 🧪 <br/>
 <br/>
-I would 💙 to learn about other stuff too, like sound design & video-editing <br/>
+💙 to learn about stuff, like sound design & video-editing <br/>
 <hr/>
 
 <h4> Fun facts </h4>
 <ul>  
   <li> <a href="https://en.wikipedia.org/wiki/Lapis_lazuli" target="_blank" rel="noopener noreferrer">Lapis lazuli</a> is a deep-blue metamorphic precious stone </li>
   <li> <a href="https://en.wikipedia.org/wiki/Lapis_manalis" target="_blank" rel="noopener noreferrer">Lapis manalis</a> is a Roman sacred stone either used to make it rain or used to cover a gate to Hades (the realm of the dead) </li>
-  <li> <a href="https://en.wikipedia.org/wiki/Philosopher's_stone" target="_blank" rel="noopener noreferrer">Lapis philosophorum</a> is the alchemical prima materia capable of transmuting lesser materials such as lead to higher substances like silver or gold </li>
+  <li> <a href="https://en.wikipedia.org/wiki/Lapis_Niger" target="_blank" rel="noopener noreferrer">Lapis Niger</a> (meaning “Black Stone”) is an ancient shrine in the Roman Forum </li>
+  <li> <a href="https://en.wikipedia.org/wiki/Philosopher's_stone" target="_blank" rel="noopener noreferrer">Lapis philosophorum</a> is the alchemical prima materia capable of transmuting lesser materials such as lead to higher substances like gold/ silver </li>
 </ul>
 <br/>
 
-<h2> Where I am </h2>
+<h2> Find me at </h2>
 You can connect with me on these other platforms outside of GitHub <br/>
 Feel free to see what interests you <br/>
 
@@ -56,7 +57,7 @@ Feel free to see what interests you <br/>
 
 <hr/>
 
-<h2> Stuff I work with </h2>
+<h2> Currently work with </h2>
 If you&rsquo;re curious with my setup and what I use to program <br/>
 
 <br/>
