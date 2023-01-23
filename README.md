@@ -27,11 +27,10 @@ constinit ::Creator<🤵🏾> stats {
   .interests = ["Animation", "Game Dev.", "Music", …]
 };
 ```
-<h2> Who I am </h2>
 Just a developer that loves to design & code
 <br/>
 Currently working on code libraries for C++ and JavaScript 📚 <br/>
-— along with other side projects & experimental concepts 🧪 <br/>
+&mdash; along with experimental concepts and side-projects 🧪 <br/>
 <br/>
 💙 to learn about stuff, like sound design & video-editing <br/>
 <hr/>
