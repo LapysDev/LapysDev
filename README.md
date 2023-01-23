@@ -1,4 +1,4 @@
-<img align="center" alt="LapysDev" src="banner/Lapys OS.jpg" style="image-rendering: optimizeQuality; image-rendering: smooth; image-rendering: high-quality; margin-left: 25%; margin-right: 25%; width: 50%"/>
+<center> <img align="center" alt="LapysDev" src="banner/Lapys OS.jpg" style="image-rendering: optimizeQuality; image-rendering: smooth; image-rendering: high-quality; margin-left: 25%; margin-right: 25%; width: 50%"/> </center>
 
 <center> <h1 align="center" center style="
   align-content  : center !important;
@@ -23,16 +23,14 @@ constinit ::Creator<🤵🏾> stats {
   .age       = 22zu,
 
   .location  = ["Basildon, United Kingdom 🇬🇧", "Lagos, Nigeria 🇳🇬"],
-  .skills    = ["2D Illustration", "Graphics Design", "Web Dev.", …],
-  .interests = ["Animation", "Game Dev.", "Music", …]
+  .skills    = ["art illustration", "graphics design", "webdev", …],
+  .interests = ["animation", "gamedev", "music", …]
 };
 ```
-Just a developer that loves to design & code
-<br/>
 Currently working on code libraries for C++ and JavaScript 📚 <br/>
-&mdash; along with experimental concepts and side-projects 🧪 <br/>
+&mdash; plus some experimental concepts and side-projects 🧪 <br/>
 <br/>
-💙 to learn about stuff, like sound design & video-editing <br/>
+💙 learning about stuff, like sound design & video-editing <br/>
 <hr/>
 
 <h4> Fun facts </h4>
