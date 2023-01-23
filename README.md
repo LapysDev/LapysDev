@@ -65,7 +65,7 @@ If you’re curious with my setup and what I use to program <br/>
 
 <a href="https://www.git-scm.com"     title="Git">          <img align="left" alt="🌐" src="tools/git.svg"          style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a>
 <a href="https://www.msys2.org"       title="msys2">        <img align="left" alt="🪛" src="tools/msys2.ico"        style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a>
-<a href="https://www.runjs.app"       title="Run JS">       <img align="left" alt="▶️" src="tools/runjs.ico"        style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a>
+<a href="https://www.runjs.app"       title="Run JS">       <img align="left" alt="▶️" src="tools/runjs.svg"        style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a>
 <a href="https://www.sublimetext.com" title="Sublime Text"> <img align="left" alt="📝" src="tools/sublime-text.svg" style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a>
 <br/>
 
