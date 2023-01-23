@@ -49,10 +49,11 @@ Connect with on these platforms outside GitHub <br/>
 Feel free to see what interests you <br/>
 
 <br/>
-<a href="https://www.artstation.com/lapys"                         title="ArtStation">    <img align="left" alt="ArtStation"    src="contacts/artstation.svg"    style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a>
-<a href="https://www.stackoverflow.com/users/7364573/lapys"        title="StackOverflow"> <img align="left" alt="StackOverflow" src="contacts/stackoverflow.svg" style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a>
-<a href="https://www.twitter.com/Lapys_Arts"                       title="Twitter">       <img align="left" alt="Twitter"       src="contacts/twitter.svg"       style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a>
-<a href="https://www.youtube.com/channel/UCaDSL0cTCxuA3EBd94IBHVw" title="YouTube">       <img align="left" alt="YouTube"       src="contacts/youtube.svg"       style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a>
+<a href="https://www.artstation.com/lapys"                         title="ArtStation">    <img align="left" alt="🎭" src="contacts/artstation.svg"    style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a>
+<a href="https://lichess.org/@/LapysArts"                          title="LiChess">       <img align="left" alt="♟️" src="contacts/lichess.svg"       style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a>
+<a href="https://www.stackoverflow.com/users/7364573/lapys"        title="StackOverflow"> <img align="left" alt="📚" src="contacts/stackoverflow.svg" style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a>
+<a href="https://www.twitter.com/Lapys_Arts"                       title="Twitter">       <img align="left" alt="🐣" src="contacts/twitter.svg"       style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a>
+<a href="https://www.youtube.com/channel/UCaDSL0cTCxuA3EBd94IBHVw" title="YouTube">       <img align="left" alt="🎬" src="contacts/youtube.svg"       style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a>
 <br/>
 
 <hr/>
@@ -62,9 +63,10 @@ If you’re curious with my setup and what I use to program <br/>
 
 <br/>
 
-<a href="https://www.git-scm.com"     title="Git">          <img align="left" alt="Git"          src="tools/git.svg"          style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a>
-<a href="https://www.msys2.org"       title="msys2">        <img align="left" alt="msys2"        src="tools/msys2.ico"        style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a>
-<a href="https://www.sublimetext.com" title="Sublime Text"> <img align="left" alt="Sublime Text" src="tools/sublime-text.svg" style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a>
+<a href="https://www.git-scm.com"     title="Git">          <img align="left" alt="🌐" src="tools/git.svg"          style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a>
+<a href="https://www.msys2.org"       title="msys2">        <img align="left" alt="🪛" src="tools/msys2.ico"        style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a>
+<a href="https://www.runjs.app"       title="Run JS">       <img align="left" alt="▶️" src="tools/runjs.ico"        style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a>
+<a href="https://www.sublimetext.com" title="Sublime Text"> <img align="left" alt="📝" src="tools/sublime-text.svg" style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a>
 <br/>
 
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C">          <img align="left" alt="C"    src="languages/c.svg"          style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a>
