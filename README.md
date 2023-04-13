@@ -15,10 +15,7 @@ constinit ::Creator<🤵🏾> stats {
   .interests = ["animation", "gamedev", "music", …]
 };
 ```
-Currently working on code libraries for C++ and JavaScript 📚 <br/>
-&mdash; plus some experimental concepts and side-projects 🧪 <br/>
-<br/>
-💙 learning about stuff, like sound design & video-editing <br/>
+Currently working on standard libraries for C++ and JavaScript 📚 <br/>
 <hr/>
 
 <h4> Fun facts </h4>
