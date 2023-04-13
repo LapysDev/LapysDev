@@ -1,18 +1,6 @@
 <center> <img align="center" alt="LapysDev" src="banner/Lapys OS.jpg" style="image-rendering: optimizeQuality; image-rendering: smooth; image-rendering: high-quality; margin-left: 25%; margin-right: 25%; width: 50%"/> </center>
 
-<center> <h1 align="center" center style="
-  align-content  : center !important;
-  align-items    : center !important;
-  display        : block  !important;
-  justify-content: center !important;
-  left           : auto   !important;
-  margin-left    : auto   !important;
-  margin-right   : auto   !important;
-  right          : auto   !important;
-  text-align     : center !important;
-  vertical-align : middle !important;
-  width          : 100%   !important
-"> Hi, I’m Lapys 👋🏾 </h1> </center>
+<h1> Hi, I’m Lapys 👋🏾 </h1>
 
 ![GitHub](https://img.shields.io/github/followers/LapysDev?color=999999&label=GitHub&logo=github&style=for-the-badge)
 [![Twitter](https://img.shields.io/badge/follow-@Lapys_Arts-00AAFF?logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FLapysDev&screen_name=Lapys_Arts)
