@@ -18,7 +18,7 @@ constinit ::Creator<🤵🏾> stats {
 Currently working on standard libraries for C++ and JavaScript 📚 <br/>
 <hr/>
 
-<h4> Fun facts </h4>
+<h3> Fun facts </h3>
 <ul>  
   <li> <a href="https://en.wikipedia.org/wiki/Lapis_lazuli"        target="_blank" rel="noopener noreferrer">Lapis lazuli</a> is a deep-blue metamorphic precious stone </li>
   <li> <a href="https://en.wikipedia.org/wiki/Lapis_manalis"       target="_blank" rel="noopener noreferrer">Lapis manalis</a> is a Roman sacred stone either used to make it rain or used to cover a gate to Hades (the realm of the dead) </li>
@@ -27,7 +27,7 @@ Currently working on standard libraries for C++ and JavaScript 📚 <br/>
 </ul>
 <br/>
 
-<h2> Find me at </h2>
+<h2> Find me at &#128205; </h2>
 Connect with on these platforms outside GitHub <br/>
 Feel free to see what interests you <br/>
 
@@ -41,7 +41,7 @@ Feel free to see what interests you <br/>
 
 <hr/>
 
-<h2> Tools in the shed </h2>
+<h2> Shed Tools &#128736; </h2>
 If you’re curious with my setup and what I use to program <br/>
 
 <br/>
