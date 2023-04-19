@@ -22,7 +22,7 @@ Currently working on standard libraries for C++ and JavaScript 📚 <br/>
 <ul>  
   <li> <a href="https://en.wikipedia.org/wiki/Lapis_lazuli"        target="_blank" rel="noopener noreferrer">Lapis lazuli</a> is a deep-blue metamorphic precious stone </li>
   <li> <a href="https://en.wikipedia.org/wiki/Lapis_manalis"       target="_blank" rel="noopener noreferrer">Lapis manalis</a> is a Roman sacred stone either used to make it rain or used to cover a gate to Hades (the realm of the dead) </li>
-  <li> <a href="https://en.wikipedia.org/wiki/Lapis_Niger"         target="_blank" rel="noopener noreferrer">Lapis Niger</a> (meaning “Black Stone”) is an ancient shrine in the Roman Forum </li>
+  <li> <a href="https://en.wikipedia.org/wiki/Lapis_Niger"         target="_blank" rel="noopener noreferrer">Lapis Niger</a> is an ancient shrine in the Roman Forum </li>
   <li> <a href="https://en.wikipedia.org/wiki/Philosopher's_stone" target="_blank" rel="noopener noreferrer">Lapis philosophorum</a> is the alchemical prima materia capable of transmuting lesser materials such as lead to higher substances like gold/ silver </li>
 </ul>
 <br/>
