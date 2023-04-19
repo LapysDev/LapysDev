@@ -2,9 +2,6 @@
 
 <h1> Hi, I’m Lapys 👋🏾 </h1>
 
-![GitHub](https://img.shields.io/github/followers/LapysDev?color=999999&label=GitHub&logo=github&style=for-the-badge)
-[![Twitter](https://img.shields.io/badge/follow-@Lapys_Arts-00AAFF?logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FLapysDev&screen_name=Lapys_Arts)
-
 ```cpp
 constinit ::Creator<🤵🏾> stats {
   .name      = "Funto Oshodi",
