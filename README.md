@@ -6,8 +6,6 @@
 constinit ::Creator<🤵🏾> stats {
   .name      = "Funto Oshodi",
   .age       = 22zu,
-
-  .location  = ["Basildon, United Kingdom 🇬🇧", "Lagos, Nigeria 🇳🇬"],
   .skills    = ["art illustration", "graphics design", "webdev", …],
   .interests = ["animation", "gamedev", "music", …]
 };
