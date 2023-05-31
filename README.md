@@ -45,8 +45,8 @@ Curious with the setup I use? <br/> <br/>
       <th rowspan="2"> Languages </th>
       <td> <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"> <img src="languages/c.svg" style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a> </td>
       <td> <a href="https://en.wikipedia.org/wiki/C++" title="C++"> <img src="languages/c++.svg" style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a> </td>
-      <td> <a href="https://en.wikipedia.org/wiki/CSS" title="CSS"> <img src="languages/css.svg" style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a> </td>
-      <td> <a href="https://en.wikipedia.org/wiki/HTML" title="HTML"> <img src="languages/html.svg" style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a> </td>
+      <td> <a href="https://en.wikipedia.org/wiki/CSS" title="CSS (Cascading Style Sheets)"> <img src="languages/css.svg" style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a> </td>
+      <td> <a href="https://en.wikipedia.org/wiki/HTML" title="HTML (HyperText Markup Language)"> <img src="languages/html.svg" style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a> </td>
       <td> <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript (vanilla)"> <img src="languages/javascript.svg" style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a> </td>
     </tr>
     <tr>
@@ -63,7 +63,7 @@ Curious with the setup I use? <br/> <br/>
     <tr>
       <th rowspan="2"> Tools &amp; IDEs </th>
       <td> <a href="https://www.git-scm.com" title="Git"> <img alt="🌐" src="tools/git.svg" style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a> </td>
-      <td> <a href="https://www.msys2.org" title="MSYS2"> <img alt="🪛" src="tools/msys2.svg" style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a> </td>
+      <td> <a href="https://www.msys2.org" title="MSYS2 (Minimal System 2)"> <img alt="🪛" src="tools/msys2.svg" style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a> </td>
       <td> <a href="https://www.intel.com/content/www/us/en/developer/tools/oneapi/dpc-compiler.html" title="Intel oneAPI"> <img alt="🟦" src="tools/intel-oneapi.svg" style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a> </td>
       <td> <a href="https://www.runjs.app" title="Run JS"> <img alt="▶️" src="tools/runjs.svg" style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a> </td>
       <td> <a href="https://www.sublimetext.com" title="Sublime Text"> <img alt="📝" src="tools/sublime-text.svg" style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a> </td>
