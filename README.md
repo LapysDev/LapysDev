@@ -1,73 +1,83 @@
 <center> <img align="center" alt="LapysDev" src="banner/Lapys OS.jpg" style="image-rendering: optimizeQuality; image-rendering: smooth; image-rendering: high-quality; margin-left: 25%; margin-right: 25%; width: 50%"/> </center>
 
-<h1> Hi, I’m Lapys 👋🏾 </h1>
+<h1> Hi, I’m Lapys! <img alt="👋🏾" src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_dark-skin-tone_1f44b-1f3ff_1f3ff.png" style="height: 1.5em; max-height: 1.5em; max-width: 1.5em"/> </h1>
+A <b>hobbyist programmer</b> working on two standard libraries for <b><a href="https://github.com/LapysDev/Lapys-C-">C++</a></b> and <b><a href="https://github.com/LapysDev/LapysJS">JavaScript</a></b> respectively &#128218; <br/> <br/>
 
 ```cpp
-constinit ::Creator<🤵🏾> stats {
-  .name      = "Funto Oshodi",
-  .age       = 22zu,
-  .skills    = ["art illustration", "graphics design", "webdev", …],
-  .interests = ["animation", "gamedev", "music", …]
+constinit ::Developer<🌙> stats {
+  .name        = "Funto Oshodi",
+  .skills      = ["art illustration", "gamedev.", "graphics design", "webdev.", …],
+  .credentials = [
+    "Games Design"     \ "South Essex College",
+    "Computer Science" \ "Covenant University"
+  ]
 };
 ```
-Currently working on standard libraries for C++ and JavaScript 📚 <br/>
 <hr/>
 
 <h3> Fun facts </h3>
 <ul>  
-  <li> <a href="https://en.wikipedia.org/wiki/Lapis_lazuli"        target="_blank" rel="noopener noreferrer">Lapis lazuli</a> is a deep-blue metamorphic precious stone </li>
-  <li> <a href="https://en.wikipedia.org/wiki/Lapis_manalis"       target="_blank" rel="noopener noreferrer">Lapis manalis</a> is a Roman sacred stone either used to make it rain or used to cover a gate to Hades (the realm of the dead) </li>
-  <li> <a href="https://en.wikipedia.org/wiki/Lapis_Niger"         target="_blank" rel="noopener noreferrer">Lapis Niger</a> is an ancient shrine in the Roman Forum </li>
-  <li> <a href="https://en.wikipedia.org/wiki/Philosopher's_stone" target="_blank" rel="noopener noreferrer">Lapis philosophorum</a> is the alchemical prima materia capable of transmuting lesser materials such as lead to higher substances like gold/ silver </li>
+  <li> <b><a href="https://en.wikipedia.org/wiki/Lapis_lazuli" target="_blank" rel="noopener noreferrer">Lapis lazuli</a>:</b> <i>Deep-blue</i> metamorphic precious stone </li>
+  <li> <b><a href="https://en.wikipedia.org/wiki/Lapis_manalis" target="_blank" rel="noopener noreferrer">Lapis manalis</a>:</b> Roman sacred stone either used to make it rain or used to cover a gate to Hades (the realm of the dead) </li>
+  <li> <b><a href="https://en.wikipedia.org/wiki/Lapis_Niger" target="_blank" rel="noopener noreferrer">Lapis Niger</a>:</b> Ancient shrine in the Roman Forum </li>
+  <li> <b><a href="https://en.wikipedia.org/wiki/Philosopher's_stone" target="_blank" rel="noopener noreferrer">Lapis philosophorum</a>:</b> Alchemical prima materia capable of <i>transmuting lesser materials</i> such as lead to <i>higher substances</i> like gold/ silver </li>
 </ul>
-<br/>
 
-<h2> Find me at &#128205; </h2>
-Connect with on these platforms outside GitHub <br/>
-Feel free to see what interests you <br/>
+<h2> &#128205; Find me at </h2>
+Connect with on these alternative platforms &mdash; feel free to see what interests you <br/> <br/>
+<table>
+  <tbody align="center">
+    <tr>
+      <td> <a href="https://www.artstation.com/lapys" title="ArtStation"> <img alt="🎭" src="contacts/artstation.svg" style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a> </td>
+      <td> <a href="https://lichess.org/@/LapysArts" title="LiChess"> <img alt="♟️" src="contacts/lichess.svg" style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a> </td>
+      <td> <a href="https://www.stackoverflow.com/users/7364573/lapys" title="StackOverflow"> <img alt="📚" src="contacts/stackoverflow.svg" style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a> </td>
+      <td> <a href="https://www.twitter.com/Lapys_Arts" title="Twitter"> <img alt="🐣" src="contacts/twitter.svg" style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a> </td>
+      <td> <a href="https://www.youtube.com/channel/UCaDSL0cTCxuA3EBd94IBHVw" title="YouTube"> <img alt="🎬" src="contacts/youtube.svg" style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a> </td>
+    </tr>
+  </tbody>
+</table>
 
-<br/>
-<a href="https://www.artstation.com/lapys"                         title="ArtStation">    <img align="left" alt="🎭" src="contacts/artstation.svg"    style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a>
-<a href="https://lichess.org/@/LapysArts"                          title="LiChess">       <img align="left" alt="♟️" src="contacts/lichess.svg"       style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a>
-<a href="https://www.stackoverflow.com/users/7364573/lapys"        title="StackOverflow"> <img align="left" alt="📚" src="contacts/stackoverflow.svg" style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a>
-<a href="https://www.twitter.com/Lapys_Arts"                       title="Twitter">       <img align="left" alt="🐣" src="contacts/twitter.svg"       style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a>
-<a href="https://www.youtube.com/channel/UCaDSL0cTCxuA3EBd94IBHVw" title="YouTube">       <img align="left" alt="🎬" src="contacts/youtube.svg"       style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a>
-<br/>
+<h2> &#128736; Shed Tools </h2>
+Curious with the setup I use? <br/> <br/>
+<table>
+  <tbody align="center">
+    <tr>
+      <th rowspan="2"> Languages </th>
+      <td> <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"> <img src="languages/c.svg" style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a> </td>
+      <td> <a href="https://en.wikipedia.org/wiki/C++" title="C++"> <img src="languages/c++.svg" style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a> </td>
+      <td> <a href="https://en.wikipedia.org/wiki/CSS" title="CSS"> <img src="languages/css.svg" style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a> </td>
+      <td> <a href="https://en.wikipedia.org/wiki/HTML" title="HTML"> <img src="languages/html.svg" style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a> </td>
+      <td> <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript (vanilla)"> <img src="languages/javascript.svg" style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a> </td>
+    </tr>
+    <tr>
+      <th title="General-purpose programming language. By design, its features cleanly reflect the capabilities of the targeted CPUs, finding lasting use in operating systems, device drivers, protocol stacks, and application software"> C </th>
+      <th title="General-purpose programming language. First released as an extension of the C, it has since significantly expanded beyond it over time. Designed with (large) systems programming and resource-constrained software in mind, with performance, efficiency, and flexibility as its focus"> C++ </th>
+      <th title="Style sheet language used for describing the presentation of a document written in a markup language such as HTML (or XML)"> CSS </th>
+      <th title="The HyperText Markup Language is the standard markup language for documents designed to be displayed in a web browser"> HTML </th>
+      <th title="Compiled (and often Just-In-Time) programming language that is multi-paradigm, supporting event-driven, functional, and imperative coding styles"> JS&#127846; </th>
+    </tr>
+  </tbody>
+</table>
+<table>
+  <tbody align="center">
+    <tr>
+      <th rowspan="2"> Tools &amp; IDEs </th>
+      <td> <a href="https://www.git-scm.com" title="Git"> <img alt="🌐" src="tools/git.svg" style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a> </td>
+      <td> <a href="https://www.msys2.org" title="msys2"> <img alt="🪛" src="tools/msys2.ico" style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a> </td>
+      <td> <a href="https://www.intel.com/content/www/us/en/developer/tools/oneapi/dpc-compiler.html" title="Intel oneAPI"> <img alt="🟦" src="tools/intel-oneapi.svg" style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a> </td>
+      <td> <a href="https://www.runjs.app" title="Run JS"> <img alt="▶️" src="tools/runjs.svg" style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a> </td>
+      <td> <a href="https://www.sublimetext.com" title="Sublime Text"> <img alt="📝" src="tools/sublime-text.svg" style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a> </td>
+    </tr>
+    <tr>
+      <th title="Distributed version control system that tracks changes in any set of computer files, usually used for coordinating work among programmers collaboratively developing source code during software development. Its goals include speed, data integrity, and support for distributed, non-linear workflows"> Git </th>
+      <th title="Collection of tools and libraries providing you with an easy-to-use environment for building, installing and running native Windows software"> msys2 </th>
+      <th title="Open, cross-architecture programming model that frees developers to use a single code base across multiple architectures"> oneAPI </th>
+      <th title="JavaScript playground for desktop operating systems. It runs code as it’s written and displays formatted results in its output panel"> Run JS </th>
+      <th title="Shareware text and source code editor which natively supports many markup and programming languages"> Sublime </th>
+    </tr>
+  </tbody>
+</table>
 
 <hr/>
 
-<h2> Shed Tools &#128736; </h2>
-If you’re curious with my setup and what I use to program <br/>
-
-<br/>
-
-<a href="https://www.git-scm.com"     title="Git">          <img align="left" alt="🌐" src="tools/git.svg"          style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a>
-<a href="https://www.msys2.org"       title="msys2">        <img align="left" alt="🪛" src="tools/msys2.ico"        style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a>
-<a href="https://www.runjs.app"       title="Run JS">       <img align="left" alt="▶️" src="tools/runjs.svg"        style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a>
-<a href="https://www.sublimetext.com" title="Sublime Text"> <img align="left" alt="📝" src="tools/sublime-text.svg" style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a>
-<br/>
-
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C">          <img align="left" alt="C"    src="languages/c.svg"          style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a>
-<a href="https://en.wikipedia.org/wiki/C++"                      title="C++">        <img align="left" alt="C++"  src="languages/c++.svg"        style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a>
-<a href="https://en.wikipedia.org/wiki/CSS"                      title="CSS">        <img align="left" alt="CSS"  src="languages/css.svg"        style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a>
-<a href="https://en.wikipedia.org/wiki/HTML"                     title="HTML">       <img align="left" alt="HTML" src="languages/html.svg"       style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a>
-<a href="https://en.wikipedia.org/wiki/JavaScript"               title="JavaScript"> <img align="left" alt="JS"   src="languages/javascript.svg" style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a>
-<br/>
-
-<hr/>
-
-<details>
-  <summary> 🌙 GitHub Stats. </summary>
-
-  <br/>
-  <img align="left" alt="Lapys' GitHub ranking/ statistics" src="https://github-readme-stats.vercel.app/api?count_private=true&hide=contribs,issues,prs&include_all_commits&custom_title=Statistics&locale=en&show_icons=true&theme=dark&username=LapysDev"/>
-  <br clear="all"/>
-</details>
-
-<details>
-  <summary> 🌙 Languages I Use </summary>
-
-  <br/>
-  <img align="left" alt="Lapys' programming languages used on GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&theme=dark&username=LapysDev"/>
-  <br clear="all"/>
-</details>
+<img align="left" alt="Lapys’ GitHub statistics" src="https://github-readme-stats.vercel.app/api?count_private=true&custom_title=🔥%20GitHub%20Stats.&include_all_commits&locale=en&show_icons=true&theme=dark&username=LapysDev"/>
