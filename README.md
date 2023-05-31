@@ -63,14 +63,14 @@ Curious with the setup I use? <br/> <br/>
     <tr>
       <th rowspan="2"> Tools &amp; IDEs </th>
       <td> <a href="https://www.git-scm.com" title="Git"> <img alt="🌐" src="tools/git.svg" style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a> </td>
-      <td> <a href="https://www.msys2.org" title="msys2"> <img alt="🪛" src="tools/msys2.ico" style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a> </td>
+      <td> <a href="https://www.msys2.org" title="MSYS2"> <img alt="🪛" src="tools/msys2.svg" style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a> </td>
       <td> <a href="https://www.intel.com/content/www/us/en/developer/tools/oneapi/dpc-compiler.html" title="Intel oneAPI"> <img alt="🟦" src="tools/intel-oneapi.svg" style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a> </td>
       <td> <a href="https://www.runjs.app" title="Run JS"> <img alt="▶️" src="tools/runjs.svg" style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a> </td>
       <td> <a href="https://www.sublimetext.com" title="Sublime Text"> <img alt="📝" src="tools/sublime-text.svg" style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="22px"/> </a> </td>
     </tr>
     <tr>
       <th title="Distributed version control system that tracks changes in any set of computer files, usually used for coordinating work among programmers collaboratively developing source code during software development. Its goals include speed, data integrity, and support for distributed, non-linear workflows"> Git </th>
-      <th title="Collection of tools and libraries providing you with an easy-to-use environment for building, installing and running native Windows software"> msys2 </th>
+      <th title="Collection of tools and libraries providing you with an easy-to-use environment for building, installing and running native Windows software"> MSYS2 </th>
       <th title="Open, cross-architecture programming model that frees developers to use a single code base across multiple architectures"> oneAPI </th>
       <th title="JavaScript playground for desktop operating systems. It runs code as it’s written and displays formatted results in its output panel"> Run JS </th>
       <th title="Shareware text and source code editor which natively supports many markup and programming languages"> Sublime </th>
