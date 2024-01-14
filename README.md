@@ -1,6 +1,6 @@
 <center> <img align="center" alt="LapysDev" src="banner/Lapys OS.jpg" style="image-rendering: optimizeQuality; image-rendering: smooth; image-rendering: high-quality; margin-left: 25%; margin-right: 25%; width: 50%"/> </center>
 
-<h1> Hi, I’m Lapys! <img alt="👋🏾" src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_dark-skin-tone_1f44b-1f3ff_1f3ff.png" style="height: 1.5em; max-height: 1.5em; max-width: 1.5em"/> </h1>
+<h1> Hi, I’m Lapys! <img alt="👋🏾" src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_dark-skin-tone_1f44b-1f3ff_1f3ff.png" style="height: 65px; max-height: 65px; max-width: 65px"/> </h1>
 Standard <b>library developer</b> for <b><a href="https://github.com/LapysDev/Lapys-C-">C++</a></b> and <b><a href="https://github.com/LapysDev/LapysJS">JavaScript</a></b> respectively &#128218; <br/> <br/>
 
 ```cpp
