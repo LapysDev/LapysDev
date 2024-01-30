@@ -17,7 +17,7 @@ constinit ::Developer<🌙> stats {
 
 <h3> Fun facts </h3>
 <ul>  
-  <li> <b><a href="https://en.wikipedia.org/wiki/Lapis_lazuli" target="_blank" rel="noopener noreferrer">Lapis lazuli</a>:</b> <i>Deep-blue</i> metamorphic precious stone </li>
+  <li> <b><a href="https://en.wikipedia.org/wiki/Lapis_lazuli" target="_blank" rel="noopener noreferrer">Lapis lazuli</a>:</b> Divinely metamorphic stone from the heavens </li>
   <li> <b><a href="https://en.wikipedia.org/wiki/Lapis_manalis" target="_blank" rel="noopener noreferrer">Lapis manalis</a>:</b> Roman sacred stone either used to make it rain or used to cover a gate to Hades (the realm of the dead) </li>
   <li> <b><a href="https://en.wikipedia.org/wiki/Lapis_Niger" target="_blank" rel="noopener noreferrer">Lapis Niger</a>:</b> Ancient shrine in the Roman Forum </li>
   <li> <b><a href="https://en.wikipedia.org/wiki/Philosopher's_stone" target="_blank" rel="noopener noreferrer">Lapis philosophorum</a>:</b> Alchemical prima materia capable of <i>transmuting lesser materials</i> such as lead to <i>higher substances</i> like gold/ silver </li>
@@ -77,7 +77,3 @@ Curious with the setup I use? <br/> <br/>
     </tr>
   </tbody>
 </table>
-
-<hr/>
-
-<img align="left" alt="Lapys’ GitHub statistics" src="https://github-readme-stats.vercel.app/api?count_private=true&custom_title=🔥%20GitHub%20Stats.&include_all_commits&locale=en&show_icons=true&theme=dark&username=LapysDev"/>
