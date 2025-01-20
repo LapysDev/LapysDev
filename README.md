@@ -8,20 +8,11 @@ constinit ::Developer<🌙> stats {
   .name        = "Funto Oshodi",
   .skills      = ["art illustration", "gamedev.", "graphics design", "webdev.", …],
   .credentials = [
-    "Games Design"     \ "South Essex College",
+    "Games Design"     \ "University Centre South Essex",
     "Computer Science" \ "Covenant University"
   ]
 };
 ```
-<hr/>
-
-<h3> Fun facts </h3>
-<ul>  
-  <li> <b><a href="https://en.wikipedia.org/wiki/Lapis_lazuli" target="_blank" rel="noopener noreferrer">Lapis lazuli</a>:</b> Divinely metamorphic stone from the heavens </li>
-  <li> <b><a href="https://en.wikipedia.org/wiki/Lapis_manalis" target="_blank" rel="noopener noreferrer">Lapis manalis</a>:</b> Roman sacred stone either used to make it rain or used to cover a gate to Hades (the realm of the dead) </li>
-  <li> <b><a href="https://en.wikipedia.org/wiki/Lapis_Niger" target="_blank" rel="noopener noreferrer">Lapis Niger</a>:</b> Ancient shrine in the Roman Forum </li>
-  <li> <b><a href="https://en.wikipedia.org/wiki/Philosopher's_stone" target="_blank" rel="noopener noreferrer">Lapis philosophorum</a>:</b> Alchemical prima materia capable of <i>transmuting lesser materials</i> such as lead to <i>higher substances</i> like gold/ silver </li>
-</ul>
 
 <h2> &#128205; Find me at </h2>
 Connect with on these alternative platforms &mdash; feel free to see what interests you <br/> <br/>
