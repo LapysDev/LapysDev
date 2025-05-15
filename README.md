@@ -66,3 +66,6 @@ Curious with my setup? <br/> <br/>
     </tr>
   </tbody>
 </table>
+
+![Placeholder footer graphic](https://github.com/user-attachments/assets/714db9e1-ebe2-44b7-9abd-9ca0a5d8eac7)
+
