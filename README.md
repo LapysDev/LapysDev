@@ -1,6 +1,6 @@
 <center> <img align="center" alt="LapysDev" src="banner/GitHub.avif" style="align-self: center; image-rendering: optimizeQuality; image-rendering: smooth; image-rendering: high-quality; justify-content: center; margin-left: 10%; margin-right: 10%; text-align: center; width: 80%"/> </center>
 
-<h1> Hi, I’m Lapys! <img alt="👋🏾" src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_dark-skin-tone_1f44b-1f3ff_1f3ff.png" style="height: 65px; max-height: 65px; max-width: 65px"/> </h1>
+<h1> Hi, I’m Lapys! <img alt="👋🏾" src="…/waving-hand.avif" style="height: 65px; max-height: 65px; max-width: 65px"/> </h1>
 <b><a href="https://github.com/LapysDev/Lapys-C-">C++</a></b> and <b><a href="https://github.com/LapysDev/LapysJS">JavaScript</a></b> standard library developer <br/> <br/>
 
 ```bash
