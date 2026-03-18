@@ -3,6 +3,9 @@
 <h1> Hi, I’m Lapys! <img alt="👋🏾" src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_dark-skin-tone_1f44b-1f3ff_1f3ff.png" style="height: 65px; max-height: 65px; max-width: 65px"/> </h1>
 <b><a href="https://github.com/LapysDev/Lapys-C-">C++</a></b> and <b><a href="https://github.com/LapysDev/LapysJS">JavaScript</a></b> standard library developer <br/> <br/>
 
+```bash
+whoami # → “github/LapysDev”
+```
 ```cpp
 constinit ::Developer<🌙> lapys {
   .name   = "Funto Oshodi",
@@ -12,13 +15,8 @@ constinit ::Developer<🌙> lapys {
   ]
 };
 ```
-
-```javascript
-lapys.say(); // → “Hello, World!”
-```
-
 <details open>
-  <summary> <h2> &#128205; Find me at </h2> </summary>
+  <summary> <h2> &#128205; Find me @ </h2> </summary>
   Let&rsquo;s connect &mdash; see what interests you <br/> <br/>
 
   <a href="https://artstation.com/lapys"                    title="ArtStation"><img    alt="🎭" src="contacts/artstation.svg"     style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="50px"/></a> <span> &nbsp; </span>
