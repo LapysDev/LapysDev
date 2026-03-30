@@ -9,15 +9,18 @@ whoami # → “github/LapysDev”
 ```cpp
 constinit ::Developer<🌙> lapys {
   .name   = "Funto Oshodi",
-  .skills = gfx("art", "design", "programming", …), [
+  .skills = gfx("art", "design", "programming", …),
+  [
     "Games Design"     @ "University of Arts London (University Centre South Essex)",
     "Computer Science" @ "Covenant University"
   ]
 };
 ```
 <details open>
-  <summary> <h2> &#128205; Find me @ </h2> </summary>
-  Let&rsquo;s connect &mdash; see what interests you <br/> <br/>
+  <summary>
+    <h2> &#128205; Find me @ </h2> <br/>
+    Let&rsquo;s connect &mdash; see what interests you <br/> <br/>
+  </summary>
 
   <a href="https://artstation.com/lapys"                    title="ArtStation"><img    alt="🎭" src="contacts/artstation.svg"     style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="50px"/></a> <span> &nbsp; </span>
   <a href="https://lapys.bsky.social"                       title="Bluesky"><img       alt="🦋" src="contacts/bluesky.svg"        style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="50px"/></a> <span> &nbsp; </span>
@@ -26,18 +29,21 @@ constinit ::Developer<🌙> lapys {
   <a href="https://twitter.com/Lapys_Arts"                  title="Twitter (X)"><img   alt="🐣" src="contacts/twitter.svg"        style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="50px"/></a> <span> &nbsp; </span>
   <a href="https://youtube.com/@_lapys"                     title="YouTube"><img       alt="🎬" src="contacts/youtube.svg"        style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="50px"/></a> <span> &nbsp; </span>
 </details>
-<details open>
-  <summary> <h2> &#128736; Shed </h2> </summary>
-  Curious with my setup? <br/> <br/>
+<details>
+  <summary>
+    <h2> &#128736; Shed </h2> <br/>
+    Curious with my setup? <br/> <br/>
+  </summary>
+
   <table style="border-collapse: collapse">
     <tbody align="center">
       <tr>
         <th rowspan="6" style="vertical-align: top"> Languages </th>
-        <td> <a href="https://simple.wikipedia.org/wiki/C_(programming_language)"       title="C">      <img src="languages/c.svg"      style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated"             width="40px"/> </a> </td>
-        <td> <a href="https://simple.wikipedia.org/wiki/C_Sharp_(programming_language)" title="C#">     <img src="languages/c%23.svg"   style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated"             width="40px"/> </a> </td>
-        <td> <a href="https://simple.wikipedia.org/wiki/C++"                            title="C++">    <img src="languages/c++.svg"    style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" title=Keith width="40px"/> </a> </td>
-        <td> <a href="https://simple.wikipedia.org/wiki/Java_(programming_language)"    title="Java">   <img src="languages/java.svg"   style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" title=Duke  width="40px"/> </a> </td>
-        <td> <a href="https://simple.wikipedia.org/wiki/Python_(programming_language)"  title="Python"> <img src="languages/python.svg" style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated"             width="40px"/> </a> </td>
+        <td> <a href="https://simple.wikipedia.org/wiki/C_(programming_language)"       title="C">      <img src="languages/c.svg"      style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated"             width="35px"/> </a> </td>
+        <td> <a href="https://simple.wikipedia.org/wiki/C_Sharp_(programming_language)" title="C#">     <img src="languages/c%23.svg"   style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated"             width="35px"/> </a> </td>
+        <td> <a href="https://simple.wikipedia.org/wiki/C++"                            title="C++">    <img src="languages/c++.svg"    style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" title=Keith width="35px"/> </a> </td>
+        <td> <a href="https://simple.wikipedia.org/wiki/Java_(programming_language)"    title="Java">   <img src="languages/java.svg"   style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" title=Duke  width="35px"/> </a> </td>
+        <td> <a href="https://simple.wikipedia.org/wiki/Python_(programming_language)"  title="Python"> <img src="languages/python.svg" style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated"             width="35px"/> </a> </td>
       </tr>
       <tr>
         <th title="General-purpose programming language. By design, its features cleanly reflect the capabilities of the targeted CPUs, finding lasting use in operating systems, device drivers, protocol stacks, and application software"> C </th>
@@ -47,10 +53,10 @@ constinit ::Developer<🌙> lapys {
         <th title="General-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation, it is dynamically type-checked and garbage-collected while supporting multiple programming paradigms, including structured (particularly procedural), object-oriented and functional programming"> Python </th>
       </tr>
       <tr>
-        <td> <a href="https://simple.wikipedia.org/wiki/Cascading_Style_Sheets" title="CSS (Cascading Style Sheets)">     <img src="languages/css.svg"          style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="40px"/> </a> </td>
-        <td> <a href="https://simple.wikipedia.org/wiki/HTML"                   title="HTML (HyperText Markup Language)"> <img src="languages/html.svg"         style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="40px"/> </a> </td>
-        <td> <a href="https://simple.wikipedia.org/wiki/JavaScript"             title="JavaScript (vanilla)">             <img src="languages/javascript.svg"   style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="40px"/> </a> </td>
-        <td> <a href="https://en.wikipedia.org/wiki/WebAssembly"                title="WebAssembly">                      <img src="languages/web-assembly.svg" style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="40px"/> </a> </td>
+        <td> <a href="https://simple.wikipedia.org/wiki/Cascading_Style_Sheets" title="CSS (Cascading Style Sheets)">     <img src="languages/css.svg"          style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="35px"/> </a> </td>
+        <td> <a href="https://simple.wikipedia.org/wiki/HTML"                   title="HTML (HyperText Markup Language)"> <img src="languages/html.svg"         style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="35px"/> </a> </td>
+        <td> <a href="https://simple.wikipedia.org/wiki/JavaScript"             title="JavaScript (vanilla)">             <img src="languages/javascript.svg"   style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="35px"/> </a> </td>
+        <td> <a href="https://en.wikipedia.org/wiki/WebAssembly"                title="WebAssembly">                      <img src="languages/web-assembly.svg" style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="35px"/> </a> </td>
         <td> &nbsp; </td>
       </tr>
       <tr>
@@ -61,8 +67,8 @@ constinit ::Developer<🌙> lapys {
         <th> &nbsp; </th>
       </tr>
       <tr>
-        <td> <a href="https://simple.wikipedia.org/wiki/MySQL" title="MySQL">      <img src="languages/mysql.svg"      style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" title="Sakila" width="40px"/> </a> </td>
-        <td> <a href="https://wikipedia.org/wiki/PostgreSQL"   title="PostgreSQL"> <img src="languages/postgresql.svg" style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated"                width="40px"/> </a> </td>
+        <td> <a href="https://simple.wikipedia.org/wiki/MySQL" title="MySQL">      <img src="languages/mysql.svg"      style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" title="Sakila" width="35px"/> </a> </td>
+        <td> <a href="https://wikipedia.org/wiki/PostgreSQL"   title="PostgreSQL"> <img src="languages/postgresql.svg" style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated"                width="35px"/> </a> </td>
         <td> &nbsp; </td>
         <td> &nbsp; </td>
         <td> &nbsp; </td>
@@ -80,10 +86,10 @@ constinit ::Developer<🌙> lapys {
     <tbody align="center">
       <tr>
         <th rowspan="2"> Tools &amp; IDEs </th>
-        <td> <a href="https://git-scm.com"                                                          title="Git">                      <img alt="🌐" src="tools/git.svg"       style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="40px"/> </a> </td>
-        <td> <a href="https://intel.com/content/www/us/en/developer/tools/oneapi/dpc-compiler.html" title="Intel oneAPI">             <img alt="🟦" src="tools/intel-one.svg" style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="40px"/> </a> </td>
-        <td> <a href="https://msys2.org"                                                            title="MSYS2 (Minimal System 2)"> <img alt="🪛" src="tools/msys2.svg"     style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="40px"/> </a> </td>
-        <td> <a href="https://sublimetext.com"                                                      title="Sublime Text">             <img alt="📝" src="tools/sublime.svg"   style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="40px"/> </a> </td>
+        <td> <a href="https://git-scm.com"                                                          title="Git">                      <img alt="🌐" src="tools/git.svg"       style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="35px"/> </a> </td>
+        <td> <a href="https://intel.com/content/www/us/en/developer/tools/oneapi/dpc-compiler.html" title="Intel oneAPI">             <img alt="🟦" src="tools/intel-one.svg" style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="35px"/> </a> </td>
+        <td> <a href="https://msys2.org"                                                            title="MSYS2 (Minimal System 2)"> <img alt="🪛" src="tools/msys2.svg"     style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="35px"/> </a> </td>
+        <td> <a href="https://sublimetext.com"                                                      title="Sublime Text">             <img alt="📝" src="tools/sublime.svg"   style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="35px"/> </a> </td>
       </tr>
       <tr>
         <th title="Distributed version control system that tracks changes in any set of computer files, usually used for coordinating work among programmers collaboratively developing source code during software development. Its goals include speed, data integrity, and support for distributed, non-linear workflows"> Git </th>
@@ -95,7 +101,7 @@ constinit ::Developer<🌙> lapys {
   </table>
 </details>
 
-<span> <img src="https://github-readme-stats.vercel.app/api/?bg_color=282A3682&count_private=true&custom_title=LapysDev%E2%80%99s%20GitHub%20Stats.&hide_border=true&icon_color=b3d5ff&rank_icon=github&show_icons=true&text_color=fff0f9&title_color=b3d5ff&username=LapysDev"/> </span>
-<span> <img src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?bg_color=282A3682&count_private=true&hide_border=true&icon_color=ffb3e5&langs_count=20&layout=compact&show_icons=true&text_color=fff0f9&title_color=b3d5ff&username=LapysDev"/> </span>
+<!-- <span> <img src="https://github-readme-stats.vercel.app/api/?bg_color=282A3682&count_private=true&custom_title=LapysDev%E2%80%99s%20GitHub%20Stats.&hide_border=true&icon_color=b3d5ff&rank_icon=github&show_icons=true&text_color=fff0f9&title_color=b3d5ff&username=LapysDev"/> </span> -->
+<!-- <span> <img src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?bg_color=282A3682&count_private=true&hide_border=true&icon_color=ffb3e5&langs_count=20&layout=compact&show_icons=true&text_color=fff0f9&title_color=b3d5ff&username=LapysDev"/> </span> -->
 
 ![Footer](https://github.com/user-attachments/assets/714db9e1-ebe2-44b7-9abd-9ca0a5d8eac7)
