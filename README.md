@@ -101,7 +101,8 @@ constinit ::Developer<🌙> lapys {
   </table>
 </details>
 
-<!-- <span> <img src="https://github-readme-stats.vercel.app/api/?bg_color=282A3682&count_private=true&custom_title=LapysDev%E2%80%99s%20GitHub%20Stats.&hide_border=true&icon_color=b3d5ff&rank_icon=github&show_icons=true&text_color=fff0f9&title_color=b3d5ff&username=LapysDev"/> </span> -->
-<!-- <span> <img src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?bg_color=282A3682&count_private=true&hide_border=true&icon_color=ffb3e5&langs_count=20&layout=compact&show_icons=true&text_color=fff0f9&title_color=b3d5ff&username=LapysDev"/> </span> -->
+<a href="https://stackoverflow.com/users/7364573/lapys"> <img alt="" src="https://stackoverflow.com/users/flair/7364573.png"/> </a> <br/>
+<span> <img alt="" src="https://github-readme-stats.vercel.app/api/?bg_color=282A3682&count_private=true&custom_title=LapysDev%E2%80%99s%20GitHub%20Stats.&hide_border=true&icon_color=b3d5ff&rank_icon=github&show_icons=true&text_color=fff0f9&title_color=b3d5ff&username=LapysDev"/> </span>
+<!-- <span> <img alt="" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?bg_color=282A3682&count_private=true&hide_border=true&icon_color=ffb3e5&langs_count=20&layout=compact&show_icons=true&text_color=fff0f9&title_color=b3d5ff&username=LapysDev"/> </span> -->
 
 <center> <img align="center" alt="Footer" src="https://github.com/user-attachments/assets/714db9e1-ebe2-44b7-9abd-9ca0a5d8eac7" style="align-self: center; image-rendering: crisp-edges; justify-content: center; margin-left: 15px; margin-right: 15px; text-align: center; width: 90%"/> </center>
