@@ -35,7 +35,7 @@ constinit ::Developer<🌙> lapys {
     Curious with my setup? <br/> <br/>
   </summary>
 
-  <table style="border-collapse: collapse">
+  <table align="absmiddle" style="border-collapse: collapse">
     <tbody align="center">
       <tr>
         <th rowspan="6" style="vertical-align: top"> Languages </th>
@@ -82,7 +82,7 @@ constinit ::Developer<🌙> lapys {
       </tr>
     </tbody>
   </table>
-  <table>
+  <table align="absmiddle">
     <tbody align="center">
       <tr>
         <th rowspan="2"> Tools &amp; IDEs </th>
