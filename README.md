@@ -35,8 +35,8 @@ constinit ::Developer<🌙> lapys {
     Curious with my setup? <br/> <br/>
   </summary>
 
-  <table align="absmiddle" style="border-collapse: collapse">
-    <tbody align="center">
+  <table style="border-collapse: collapse">
+    <tbody align="absmiddle">
       <tr>
         <th rowspan="6" style="vertical-align: top"> Languages </th>
         <td> <a href="https://simple.wikipedia.org/wiki/C_(programming_language)"       title="C">      <img src="https://raw.githubusercontent.com/LapysDev/LapysDev/refs/heads/main/languages/c.svg"      style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated"             width="40px"/> </a> </td>
@@ -82,8 +82,8 @@ constinit ::Developer<🌙> lapys {
       </tr>
     </tbody>
   </table>
-  <table align="absmiddle">
-    <tbody align="center">
+  <table>
+    <tbody align="absmiddle">
       <tr>
         <th rowspan="2"> Tools &amp; IDEs </th>
         <td> <a href="https://git-scm.com"                                                          title="Git">                      <img alt="🌐" src="https://raw.githubusercontent.com/LapysDev/LapysDev/refs/heads/main/tools/git.svg"       style="image-rendering: -webkit-crisp-edges; image-rendering: -moz-crisp-edges; image-rendering: crisp-edges; image-rendering: pixelated" width="40px"/> </a> </td>
